@@ -1,3 +1,3 @@
 # test-repo
-##new to gitub
-**lets learn together**
+## new to GitHub
+**let's learn together**
